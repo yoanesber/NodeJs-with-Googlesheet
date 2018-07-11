@@ -7,12 +7,12 @@ These guides explain how you can use some operations of Google Sheets API direct
 
 1. Turn on `Google Sheets API`:
 
-<ol>
+<ul>
 <li>Select <strong>+ Create a new project</strong>.</li>
 <li>Enter the name &quot;Google Sheets API Quickstart&quot;.</li>
 <li>Download the configuration file.</li>
 <li>Move the downloaded file to your working directory and rename it &quot;client_secret.json&quot;.</li>
-</ol>
+</ul>
 
 
 2. Install the client library on your terminal:
@@ -31,13 +31,11 @@ These guides explain how you can use some operations of Google Sheets API direct
 
 6. Get and store your credential:
 
-   ```
-<ol>
+<ul>
 <li><p>Browse to the provided URL in your web browser.
 <p>If you are not already logged into your Google account, you will be prompted to log in.  If you are logged into multiple Google accounts, you will be asked to select one account to use for the authorization.</li>
 <li>Click the <strong>Accept</strong> button.</li>
 <li>Copy the code given, paste it into the command-line prompt, and press <strong>Enter</strong>.</li>
-</ol>
-   ```
+</ul>
 
 7. Open `http://localhost:1337/` on your browser.
