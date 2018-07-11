@@ -5,9 +5,6 @@ These guides explain how you can use some operations of Google Sheets API direct
 
 ## Installation
 
-Please see the `migrations section <http://localhost/_Project/HJM_Logistic3/user_guide/libraries/migration.html>`_
-of the CodeIgniter User Guide.
-
 1. Turn on `Google Sheets API`:
 
    ```
