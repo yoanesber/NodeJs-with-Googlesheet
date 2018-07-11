@@ -7,14 +7,13 @@ These guides explain how you can use some operations of Google Sheets API direct
 
 1. Turn on `Google Sheets API`:
 
-   ```
 <ol>
 <li>Select <strong>+ Create a new project</strong>.</li>
 <li>Enter the name &quot;Google Sheets API Quickstart&quot;.</li>
 <li>Download the configuration file.</li>
 <li>Move the downloaded file to your working directory and rename it &quot;client_secret.json&quot;.</li>
 </ol>
-   ```
+
 
 2. Install the client library on your terminal:
 
@@ -23,18 +22,14 @@ These guides explain how you can use some operations of Google Sheets API direct
    ```
 
 3. Create `index.js` to read, write, and clear process. You can copy mine.
-
-   ```
    
-   ```
-
 5. Run the server on your terminal
 
    ```
    ~/Documents/Googlesheet_API/node index
    ```
 
-6. Get and store your token credential:
+6. Get and store your credential:
 
    ```
 <ol>
